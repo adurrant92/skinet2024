@@ -12,6 +12,10 @@ namespace Core.Interfaces
 
         Task<IReadOnlyList<T>> ListAllAsync();
 
+        Task<T?> GetEntityWithSpec(Ispecification<T> spec);
+
+        Task<IReadOnlyList<T>> ListAsync(Ispecification<T> spec);
+
         void Add(T entity);
 
         void Update(T entity);
