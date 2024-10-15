@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Core.Interfaces
 {
-    public interface Ispecification<T> 
+    public interface ISpecification<T> 
     {
         Expression<Func<T, bool>>? Criteria {get;} 
 
@@ -14,7 +14,14 @@ namespace Core.Interfaces
 
         Expression<Func<T, object>>? OrderByDescending {get;}
 
+        bool IsDistinct {get;}
+
         
         
+    }
+
+    public interface ISpecification<T , TResult> : ISpecification<T>
+    {
+        Expression<Func<T, TResult>>? Select {get;}
     }
 }
