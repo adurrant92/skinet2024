@@ -339,6 +339,9 @@ __pycache__/
 
 # Tabs Studio
 *.tss
+*.js
+*.js.map
+_metadata.json
 
 # Telerik's JustMock configuration file
 *.jmconfig
@@ -483,3 +486,65 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 API/appsettings.json
+client/.angular/cache/18.2.9/client/vite/deps/@angular_common_http.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_core.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_badge.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_button.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_icon.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_platform-browser_animations_async.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_platform-browser.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_router.js
+client/.angular/cache/18.2.9/client/vite/deps/browser-7HEKBHYG.js
+client/.angular/cache/18.2.9/client/vite/deps/browser-7HEKBHYG.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-4XWSVYSK.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-4XWSVYSK.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-HKT6WV6K.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-HKT6WV6K.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-S47GBUIM.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-S47GBUIM.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-UP4XSPXV.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-UP4XSPXV.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-Y4VJQ442.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-Y4VJQ442.js.map
+client/.angular/cache/18.2.9/client/vite/deps/@angular_common_http.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_core.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_badge.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_button.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_icon.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_platform-browser_animations_async.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_platform-browser.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_router.js
+client/.angular/cache/18.2.9/client/vite/deps/browser-7HEKBHYG.js
+client/.angular/cache/18.2.9/client/vite/deps/browser-7HEKBHYG.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-4XWSVYSK.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-4XWSVYSK.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-HKT6WV6K.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-HKT6WV6K.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-S47GBUIM.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-S47GBUIM.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-UP4XSPXV.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-UP4XSPXV.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-Y4VJQ442.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-Y4VJQ442.js.map
+client/.angular/cache/18.2.9/client/vite/deps/@angular_common_http.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_core.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_badge.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_button.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_material_icon.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_platform-browser_animations_async.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_platform-browser.js
+client/.angular/cache/18.2.9/client/vite/deps/@angular_router.js
+client/.angular/cache/18.2.9/client/vite/deps/browser-7HEKBHYG.js
+client/.angular/cache/18.2.9/client/vite/deps/browser-7HEKBHYG.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-4XWSVYSK.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-4XWSVYSK.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-HKT6WV6K.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-HKT6WV6K.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-S47GBUIM.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-S47GBUIM.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-UP4XSPXV.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-UP4XSPXV.js.map
+client/.angular/cache/18.2.9/client/vite/deps/chunk-Y4VJQ442.js
+client/.angular/cache/18.2.9/client/vite/deps/chunk-Y4VJQ442.js.map
+client/.angular/cache/18.2.9/client/.tsbuildinfo
+client/.angular/cache/18.2.9/client/vite/deps/_metadata.json
