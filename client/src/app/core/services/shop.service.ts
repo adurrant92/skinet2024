@@ -40,6 +40,10 @@ export class ShopService {
 
   }
 
+  getProduct(id: number){
+    return this.http.get<Product>(this.baseUrl + 'products/' + id)
+  }
+
   getBrands(){
     if(this.brands.length > 0) return; // stops exercuting the function if we are already storing the brands
     return this.http.get<string[]>(this.baseUrl + 'products/brands').subscribe({
